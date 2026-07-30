@@ -1,0 +1,7 @@
+2026-07-14 19:34:49 - POST Data: {"product_id":"1","action":"add","ajax":"1"} - Session ID: ul40oh1crq4m77egr13fjtggt1 - Cookies: {"PHPSESSID":"ul40oh1crq4m77egr13fjtggt1"}
+2026-07-14 19:34:51 - POST Data: {"product_id":"2","action":"add","ajax":"1"} - Session ID: ul40oh1crq4m77egr13fjtggt1 - Cookies: {"PHPSESSID":"ul40oh1crq4m77egr13fjtggt1"}
+2026-07-14 19:34:56 - POST Data: {"product_id":"2","action":"add","ajax":"1"} - Session ID: ul40oh1crq4m77egr13fjtggt1 - Cookies: {"PHPSESSID":"ul40oh1crq4m77egr13fjtggt1"}
+2026-07-14 19:42:06 - POST Data: {"product_id":"1","action":"add","ajax":"1"} - Session ID: ul40oh1crq4m77egr13fjtggt1 - Cookies: {"PHPSESSID":"ul40oh1crq4m77egr13fjtggt1"}
+2026-07-15 09:14:58 - POST Data: {"product_id":"2","action":"add","ajax":"1"} - Session ID: 0hrs3cs3v00eucpck93boq88tb - Cookies: {"PHPSESSID":"0hrs3cs3v00eucpck93boq88tb"}
+2026-07-15 09:18:30 - POST Data: {"product_id":"4","action":"add","ajax":"1"} - Session ID: 0hrs3cs3v00eucpck93boq88tb - Cookies: {"PHPSESSID":"0hrs3cs3v00eucpck93boq88tb"}
+2026-07-15 09:19:00 - POST Data: {"product_id":"3","action":"add","ajax":"1"} - Session ID: 0hrs3cs3v00eucpck93boq88tb - Cookies: {"PHPSESSID":"0hrs3cs3v00eucpck93boq88tb"}

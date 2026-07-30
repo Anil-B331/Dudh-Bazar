@@ -1,0 +1,3 @@
+{"timestamp":"2026-07-14 18:41:54","event":"WALLET_TOPUP","user_id":"1","amount":"1000","method":"eSewa","ref":"TXN6A5666D287549","status":"SUCCESS"}
+{"timestamp":"2026-07-15 09:15:34","event":"WALLET_TOPUP","user_id":1,"amount":"2000","method":"eSewa","ref":"TXN6A57339637F60","status":"SUCCESS"}
+{"timestamp":"2026-07-15 09:19:34","event":"WALLET_TOPUP","user_id":2,"amount":"2000","method":"eSewa","ref":"TXN6A573486BFC8E","status":"SUCCESS"}
